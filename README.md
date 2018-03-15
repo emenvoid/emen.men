@@ -2,5 +2,6 @@
 
 > I build myself like a machine and train myself through creating products
 
-- [Emen Void](https://1.emen.men/)
-- [《特立独行》](https://2.emen.men/)
+ [Blog / Lifelog](https://1.emen.men/)
+
+ [《特立独行》](https://2.emen.men/)
