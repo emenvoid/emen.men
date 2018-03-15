@@ -1,5 +1,6 @@
-# Emen Void<small>0.0</small>
+# Emen Void <small>0.0</small>
 
-> [ Blog](1.emen.men)
+> I build myself like a machine and train myself through creating products
 
-> [《特立独行》](2.emen.men)
+- [Emen Void](https://1.emen.men/)
+- [《特立独行》](https://2.emen.men/)
